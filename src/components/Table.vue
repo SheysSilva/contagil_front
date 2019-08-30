@@ -8,12 +8,12 @@
   export default {
     data() {
       return {
-        fields: ['first_name', 'last_name', 'age'],
+        fields: ['COD_VER', 'COD_FIN', 'DT_INI', 'DT_FIN', 'NOME', 'CNPJ', 'UF', 'IE', 'COD_MUN', 'SUFRAMA', 'IND_PERFIL', 'IND_ATIV'],
         items: [
-          { age: 40, first_name: 'Dickerson', last_name: 'Macdonald' },
-          { age: 21, first_name: 'Larsen', last_name: 'Shaw' },
-          { age: 89, first_name: 'Geneva', last_name: 'Wilson' },
-          { age: 38, first_name: 'Jami', last_name: 'Carney' }
+          { COD_VER: 2029382, COD_FIN: 2029382, DT_INI: '20/09/2019', DT_FIN: '20/09/2019', NOME: 'Contagil', CNPJ: 1234443443, UF: 'PB', IE: 'mvklgfn', COD_MUN: 28328438483, SUFRAMA: 'mvklgfn', IND_PERFIL: 'mvklgfn', IND_ATIV: 'mvklgfn'},
+          { COD_VER: 2029382, COD_FIN: 2029382, DT_INI: '20/09/2019', DT_FIN: '20/09/2019', NOME: 'Contagil', CNPJ: 1234443443, UF: 'PB', IE: 'mvklgfn', COD_MUN: 28328438483, SUFRAMA: 'mvklgfn', IND_PERFIL: 'mvklgfn', IND_ATIV: 'mvklgfn'},
+          { COD_VER: 2029382, COD_FIN: 2029382, DT_INI: '20/09/2019', DT_FIN: '20/09/2019', NOME: 'Contagil', CNPJ: 1234443443, UF: 'PB', IE: 'mvklgfn', COD_MUN: 28328438483, SUFRAMA: 'mvklgfn', IND_PERFIL: 'mvklgfn', IND_ATIV: 'mvklgfn'},
+          { COD_VER: 2029382, COD_FIN: 2029382, DT_INI: '20/09/2019', DT_FIN: '20/09/2019', NOME: 'Contagil', CNPJ: 1234443443, UF: 'PB', IE: 'mvklgfn', COD_MUN: 28328438483, SUFRAMA: 'mvklgfn', IND_PERFIL: 'mvklgfn', IND_ATIV: 'mvklgfn'}
         ]
       }
     }

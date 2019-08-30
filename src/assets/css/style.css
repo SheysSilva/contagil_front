@@ -29,5 +29,11 @@
 }
 
 .home {
+  display: flex;
   float: right;
+  justify-content: space-between;
+}
+
+.el {
+  margin: 10px ;
 }
